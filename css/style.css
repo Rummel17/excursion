@@ -27,3 +27,9 @@ p.main{
 p #CopyRight {
   text-align: right;
 }
+video {
+
+}
+landscape {
+  background-image: url(../resources/images/landscape.jpg);
+}
